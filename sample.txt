@@ -1,0 +1,17 @@
+sample
+text
+for
+
+works
+
+
+even
+
+
+with
+
+
+
+empty
+lines
+?
